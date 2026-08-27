@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @MukunthanA
-- 👀 I’m interested in --> FULL-STACK DEVELOPMENT 
+- 👀 I’m interested in --> FULL-STACK DEVELOPMENT . @ digi entrant
 - 🌱 I’m currently learning --->JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---> mukunthanmukunthan161@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MukunthanA/MukunthanA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
