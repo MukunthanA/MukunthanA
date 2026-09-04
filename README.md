@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukunthanA
 - 👀 I’m interested in --> FULL-STACK DEVELOPMENT 
-- 🌱 I’m currently learning --->JAVASCRIPT
+- 🌱 I’m currently learning --->LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---> mukunthanmukunthan161@gmail.com
 - 😄 Pronouns: ...
